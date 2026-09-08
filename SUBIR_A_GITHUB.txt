@@ -1,0 +1,5 @@
+ANACHRONISM — versión plana para GitHub Pages
+
+Sube TODOS los archivos y la carpeta assets directamente a la raíz del repositorio Journal.
+No hay carpeta articulos: publicaciones.html y los cuatro artículos están en la raíz, para evitar errores 404 por carpetas omitidas.
+Enlaces internos comprobados: 53. Enlaces rotos: 0. Imágenes incrustadas: 37. Errores de datos de imagen: 0.
