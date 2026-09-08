@@ -1,8 +1,0 @@
-VERSIÓN DEFINITIVA — 4 DE AGOSTO DE 2026
-
-- Fecha visible del artículo: 4 de agosto de 2026.
-- Fecha estructurada (Schema.org): 2026-08-04.
-- Tiempo de lectura recalculado: 15 minutos.
-  Cálculo: 2.880 palabras / 200 palabras por minuto = 14,4; redondeado al minuto superior.
-- Todas las imágenes están incrustadas en Base64 dentro de los HTML.
-- Validación automática de imágenes, enlaces internos y renderizado realizada.
