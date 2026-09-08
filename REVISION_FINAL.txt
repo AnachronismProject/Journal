@@ -1,8 +1,0 @@
-ANACHRONISM — REVISIÓN FINAL
-
-- Portadas de Italia y Argentina convertidas a panorámico 16:9 real.
-- Proporción, marco y altura homogeneizados en portadas y tarjetas.
-- Texto de los artículos y páginas de autor/obra justificado también en móvil.
-- Figuras internas protegidas contra recortes y desbordamientos.
-- Tarjetas igualadas en altura y botones alineados.
-- Navegación, rutas internas y adaptación responsive revisadas.
