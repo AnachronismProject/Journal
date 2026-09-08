@@ -1,0 +1,13 @@
+ANACHRONISM - comprobación del archivo regenerado
+HTML: 8
+Imágenes referenciadas: 37
+Imágenes incrustadas: 37
+Imágenes locales: 0
+Enlaces internos faltantes: 0
+Imágenes rotas: 0
+Comprobaciones:
+- fecha_4_agosto: True
+- alemania_punto_coma: True
+- portada_femenina_inicio: True
+- portada_femenina_publicaciones: True
+- portada_femenina_articulo: True

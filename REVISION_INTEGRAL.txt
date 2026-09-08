@@ -1,0 +1,10 @@
+REVISIÓN INTEGRAL DE LA WEB — 4 de agosto de 2026
+
+- Revisión de Inicio, Autor, Obra, Publicaciones y todos los artículos.
+- Homogeneización de cabecera, pie, anchuras, márgenes, tipografía y ritmo vertical.
+- Imágenes de tarjetas y artículos relacionados mostradas completas, sin recortes.
+- Marcos uniformes para portadas, mapas, gráficas e infografías.
+- Tarjetas equilibradas y títulos protegidos frente a desbordamientos.
+- Corrección específica de la sección de artículos relacionados del himno.
+- Ajustes de navegación y visualización en escritorio, tableta y móvil.
+- Validación de enlaces internos, imágenes, textos alternativos y estructura de encabezados.

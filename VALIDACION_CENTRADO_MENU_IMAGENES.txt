@@ -1,0 +1,12 @@
+VALIDACIÓN FINAL
+Archivos HTML comprobados: 8
+Resultado global: CORRECTO
+
+articulos/cuando-los-paises-cantan-espana-tararea.html: imágenes=8 (OK), enlaces=OK, menú=OK
+articulos/de-cazadores-a-agricultores.html: imágenes=3 (OK), enlaces=OK, menú=OK
+articulos/index.html: imágenes=5 (OK), enlaces=OK, menú=OK
+articulos/italia-habla-florentino-y-muchas-otras-lenguas.html: imágenes=8 (OK), enlaces=OK, menú=OK
+articulos/origenes-etnicos-argentina.html: imágenes=6 (OK), enlaces=OK, menú=OK
+autor.html: imágenes=1 (OK), enlaces=OK, menú=OK
+index.html: imágenes=2 (OK), enlaces=OK, menú=OK
+obra.html: imágenes=4 (OK), enlaces=OK, menú=OK
