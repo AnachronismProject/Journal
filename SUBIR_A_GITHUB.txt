@@ -1,5 +1,11 @@
-ANACHRONISM — versión plana para GitHub Pages
+ACTUALIZACIÓN DE ANACHRONISM EN GITHUB PAGES
 
-Sube TODOS los archivos y la carpeta assets directamente a la raíz del repositorio Journal.
-No hay carpeta articulos: publicaciones.html y los cuatro artículos están en la raíz, para evitar errores 404 por carpetas omitidas.
-Enlaces internos comprobados: 53. Enlaces rotos: 0. Imágenes incrustadas: 37. Errores de datos de imagen: 0.
+Sube estos archivos a la raíz del repositorio Journal.
+Los archivos existentes conservan exactamente los mismos nombres que la versión anterior,
+por lo que GitHub los sustituirá al confirmar los cambios.
+
+ARCHIVO NUEVO:
+- israelies-palestinos-de-quienes-hablamos.html
+- assets/tierra-santa-israel-palestina-unir.jpg
+
+No cambies Settings > Pages. Solo reemplaza/sube los archivos y haz Commit changes.

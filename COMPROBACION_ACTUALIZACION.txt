@@ -1,0 +1,10 @@
+Comprobación de actualización GitHub
+===================================
+Archivos HTML: 9
+Archivos antiguos faltantes: 0
+Enlaces internos rotos: 0
+Referencias locales rotas: 0
+Nuevo artículo - sidebar: True
+Nuevo artículo - Sobre el autor: True
+Nuevo artículo - Compartir: True
+Nuevo artículo - relacionados: True
