@@ -1,0 +1,10 @@
+ACTUALIZACIÓN FORZADA DE GITHUB
+
+1. En el repositorio Journal, borra los 8 HTML antiguos: index.html, autor.html, obra.html, publicaciones.html, cuando-los-paises-cantan-espana-tararea.html, italia-habla-florentino-y-muchas-otras-lenguas.html, origenes-etnicos-argentina.html y de-cazadores-a-agricultores.html.
+2. Haz Commit changes.
+3. Vuelve a la raíz del repositorio y usa Add file > Upload files.
+4. Sube los 9 HTML de esta carpeta (incluye el nuevo artículo de Tierra Santa).
+5. Haz Commit changes.
+6. Espera 1-3 minutos y recarga la web con Ctrl+F5.
+
+Todas las imágenes están incrustadas dentro de los HTML, así que no necesitas subir una carpeta assets para esta actualización.
