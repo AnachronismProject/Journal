@@ -1,10 +1,23 @@
-ACTUALIZACIÓN FORZADA DE GITHUB
+ANACHRONISM — SUSCRIPCIÓN INCORPORADA EN LOS HTML — 13 SEPTIEMBRE 2026
 
-1. En el repositorio Journal, borra los 8 HTML antiguos: index.html, autor.html, obra.html, publicaciones.html, cuando-los-paises-cantan-espana-tararea.html, italia-habla-florentino-y-muchas-otras-lenguas.html, origenes-etnicos-argentina.html y de-cazadores-a-agricultores.html.
-2. Haz Commit changes.
-3. Vuelve a la raíz del repositorio y usa Add file > Upload files.
-4. Sube los 9 HTML de esta carpeta (incluye el nuevo artículo de Tierra Santa).
-5. Haz Commit changes.
-6. Espera 1-3 minutos y recarga la web con Ctrl+F5.
+CAMBIO
+Esta entrega incorpora directamente en los HTML el diseño y el iframe oficial de Brevo. Ya no depende de la carpeta assets ni de JavaScript para mostrar la suscripción. Hay un acceso visible en la parte superior de todas las páginas y un botón que abre el formulario en otra pestaña si el formulario insertado no carga.
+Contacto: mcaraoliver@gmail.com. Se conserva exactamente el enlace de Brevo facilitado por Mario.
 
-Todas las imágenes están incrustadas dentro de los HTML, así que no necesitas subir una carpeta assets para esta actualización.
+CÓMO SUBIR
+1. Descomprime esta entrega nueva.
+2. En GitHub abre el mismo directorio que contiene el index.html publicado.
+3. Add file > Upload files: arrastra los 11 HTML, sin la carpeta contenedora y sin el ZIP.
+4. Haz un único Commit changes para sustituirlos. Los nombres de los HTML anteriores coinciden exactamente; no hay que borrarlos antes.
+5. Si ya habías subido assets, puedes dejarlo: estos HTML no usan esos archivos.
+6. Cuando termine la publicación de GitHub Pages, recarga la página con Ctrl+F5. Debe aparecer un acceso «Suscríbete a la revista» justo bajo la cabecera.
+
+Los ocho bloques de suscripción se encuentran en portada, publicaciones, cinco artículos y suscripcion.html. La política está en privacidad.html. Todos los enlaces son relativos para respetar el directorio del repositorio. Las imágenes anteriores siguen incrustadas en los HTML.
+
+ALCANCE Y VALIDACIÓN
+Esta entrega actualiza archivos; no modifica por sí misma el repositorio ni la web publicada.
+Se han comprobado los nombres, la conservación del contenido original y de las imágenes, los enlaces locales, los identificadores y los ocho iframe con la URL exacta proporcionada. Se ha eliminado toda referencia a los tres archivos externos de newsletter.
+No se pudo consultar la web publicada ni verificar visualmente el formulario desde este entorno. La causa del fallo publicado sigue sin confirmarse. Esta corrección elimina la dependencia de archivos adicionales como posible causa.
+No se ha enviado ninguna solicitud de suscripción ni correo de prueba. Comprueba dentro de Brevo consentimiento, lista de destino y doble confirmación y realiza una prueba de alta/baja con una dirección tuya.
+
+Para identificar esta entrega en el código fuente: meta an-newsletter-revision = 20260913-inline-1.
