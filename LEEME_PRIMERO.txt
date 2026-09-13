@@ -1,23 +1,22 @@
-ANACHRONISM — SUSCRIPCIÓN INCORPORADA EN LOS HTML — 13 SEPTIEMBRE 2026
+ANACHRONISM — SUSCRIPCIÓN SIMPLIFICADA — 13 SEPTIEMBRE 2026
 
-CAMBIO
-Esta entrega incorpora directamente en los HTML el diseño y el iframe oficial de Brevo. Ya no depende de la carpeta assets ni de JavaScript para mostrar la suscripción. Hay un acceso visible en la parte superior de todas las páginas y un botón que abre el formulario en otra pestaña si el formulario insertado no carga.
-Contacto: mcaraoliver@gmail.com. Se conserva exactamente el enlace de Brevo facilitado por Mario.
+DISEÑO
+Cada bloque contiene únicamente:
+- La revista, en tu correo.
+- Suscríbete a Anachronism.
+- Abrir formulario de suscripción.
+- El formulario oficial que se configura en Brevo.
 
-CÓMO SUBIR
-1. Descomprime esta entrega nueva.
-2. En GitHub abre el mismo directorio que contiene el index.html publicado.
-3. Add file > Upload files: arrastra los 11 HTML, sin la carpeta contenedora y sin el ZIP.
-4. Haz un único Commit changes para sustituirlos. Los nombres de los HTML anteriores coinciden exactamente; no hay que borrarlos antes.
-5. Si ya habías subido assets, puedes dejarlo: estos HTML no usan esos archivos.
-6. Cuando termine la publicación de GitHub Pages, recarga la página con Ctrl+F5. Debe aparecer un acceso «Suscríbete a la revista» justo bajo la cabecera.
+Se han eliminado la introducción duplicada, el mensaje «Puedes completar el formulario aquí…» y la línea del lema, privacidad y correo dentro del bloque. El acceso a privacidad sigue disponible en el pie de la web.
+El iframe mide 480 px en escritorio y 600 px en pantallas estrechas, con desplazamiento interno del navegador si el formulario o sus mensajes necesitan más espacio. El enlace directo permite abrir el formulario completo en otra pestaña.
 
-Los ocho bloques de suscripción se encuentran en portada, publicaciones, cinco artículos y suscripcion.html. La política está en privacidad.html. Todos los enlaces son relativos para respetar el directorio del repositorio. Las imágenes anteriores siguen incrustadas en los HTML.
+FONDO EXTERIOR DE BREVO: PENDIENTE EN SU EDITOR
+El celeste que rodea el recuadro blanco de la captura está dentro de la página externa de Brevo. El marco de nuestra web tiene fondo transparente; el navegador no permite que los estilos de Anachronism modifiquen el interior de una página de otro dominio.
+Para quitar el celeste manteniendo el formulario alojado y editable en Brevo, cambia el fondo exterior del formulario desde su editor. Si admite transparencia, úsala; si solo admite color, usa #f4ecdf, el color crema que esta entrega aplica uniformemente al bloque. Mantén el recuadro interior blanco y guarda/publica los cambios en el mismo formulario. No hace falta sustituir su URL si conservas el mismo formulario.
+No se ha cambiado ese ajuste de tu cuenta Brevo desde aquí. La consulta automatizada del formulario sigue devolviendo HTTP 403, por lo que no se ha podido verificar su aspecto actual ni una suscripción real.
 
-ALCANCE Y VALIDACIÓN
-Esta entrega actualiza archivos; no modifica por sí misma el repositorio ni la web publicada.
-Se han comprobado los nombres, la conservación del contenido original y de las imágenes, los enlaces locales, los identificadores y los ocho iframe con la URL exacta proporcionada. Se ha eliminado toda referencia a los tres archivos externos de newsletter.
-No se pudo consultar la web publicada ni verificar visualmente el formulario desde este entorno. La causa del fallo publicado sigue sin confirmarse. Esta corrección elimina la dependencia de archivos adicionales como posible causa.
-No se ha enviado ninguna solicitud de suscripción ni correo de prueba. Comprueba dentro de Brevo consentimiento, lista de destino y doble confirmación y realiza una prueba de alta/baja con una dirección tuya.
+SUBIR A GITHUB
+Descomprime esta entrega y sube sus 11 HTML juntos al mismo directorio de Journal donde está index.html, sustituyendo los archivos del mismo nombre en un único commit. No borres antes nada. La carpeta assets no es necesaria. Conserva main y /(root) en GitHub Pages. Espera a que termine la nueva publicación antes de comprobar el resultado.
 
-Para identificar esta entrega en el código fuente: meta an-newsletter-revision = 20260913-inline-1.
+Se conservan textos, imágenes, nombres de archivos y URL de Brevo. Esta entrega no modifica por sí sola el repositorio ni los ajustes de Brevo.
+Revisión: 20260913-minimal-2.
