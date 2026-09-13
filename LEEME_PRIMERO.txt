@@ -1,11 +1,11 @@
 ANACHRONISM — WEB COMPLETA CON PREHISTORIA — 13 SEPTIEMBRE 2026
 
 NUEVO ARTÍCULO
-Título: Genealogía de Tierra Santa y sus pueblos.
-Subtítulo: Parte I: Prehistoria.
+Título: Genealogía de Tierra Santa y sus Pueblos. Parte I
+Subtítulo: La Prehistoria.
 Archivo: genealogia-tierra-santa-parte-i-prehistoria.html
 
-Se conserva íntegramente el texto definitivo La_Prehistoria_de_Tierra_Santa_MAX_4800_FINAL.md. Se utiliza la misma portada que en la introducción, con su crédito original. Se incorporan las cuatro imágenes adjuntas y la última cronología localizada, image-gen-4(5).png, del 13 de septiembre a las 13:05 UTC. Las imágenes están incrustadas en el HTML y no necesitan carpetas adicionales.
+Se conserva íntegramente el texto definitivo La_Prehistoria_de_Tierra_Santa_MAX_4800_FINAL.md. Se utiliza la misma portada que en la introducción, con su crédito original. Se incorporan las cuatro imágenes adjuntas (con el mapa del horizonte natufiense sustituido por 7c95462a-cd62-4e9e-959f-f94b8aeb5c11.png) y la última cronología localizada, image-gen-4(5).png, del 13 de septiembre a las 13:05 UTC. Las imágenes están incrustadas en el HTML y no necesitan carpetas adicionales.
 La nueva entrega aparece en Inicio y Publicaciones. La introducción enlaza a esta continuación y el nuevo artículo recomienda la introducción y el artículo sobre los agricultores de Anatolia.
 
 SUSCRIPCIÓN
@@ -15,7 +15,7 @@ Se mantiene el diseño simplificado: La revista, en tu correo; Suscríbete a Ana
 BIBLIOGRAFÍA Y PRECISIONES
 El nuevo artículo incorpora 14 referencias bibliográficas y documentales sobre las primeras dispersiones humanas, los natufienses, la domesticación, Motza, Ain Ghazal, arqueogenética, Peqi’in, Nahal Mishmar y Jericó.
 Se ha preservado el párrafo del manuscrito sobre el proyecto reciente de Motza (72 individuos y ADN de 50). No se ha localizado una publicación primaria verificable para esas cifras en esta revisión; no se ha inventado una referencia ni se han atribuido a Lazaridis 2016, que estudia una muestra anterior.
-Los pies de imagen precisan que el horizonte natufiense corresponde aproximadamente a hace 15.000–11.500 años, no a 15.000–11.500 a. C. como indica el mapa adjunto, y que Eynan-Mallaha era una comunidad de cazadores-recolectores anterior a las aldeas agrícolas. Los mapas y la cronología se han conservado tal como fueron proporcionados/localizados, sin alterar sus píxeles. Las flechas genéticas son esquemáticas y los porcentajes son modelos de referencia, no ascendencias individuales.
+Los pies de imagen aportan claves de lectura sin repetir sus títulos. Cada imagen y su nota comparten un único marco, con bordes alineados y sin el contorno superpuesto de la versión anterior. El mapa natufiense contiene ya la cronología corregida enviada por el autor. La bibliografía utiliza la misma lista y estilo de los demás artículos, sin títulos subrayados. La página de privacidad tiene márgenes simétricos, párrafos justificados y títulos centrados.
 
 SUBIR A GITHUB
 1. Descomprime este ZIP.
