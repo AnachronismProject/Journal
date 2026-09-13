@@ -1,22 +1,32 @@
-ANACHRONISM — SUSCRIPCIÓN SIMPLIFICADA — 13 SEPTIEMBRE 2026
+ANACHRONISM — WEB COMPLETA CON PREHISTORIA — 13 SEPTIEMBRE 2026
 
-DISEÑO
-Cada bloque contiene únicamente:
-- La revista, en tu correo.
-- Suscríbete a Anachronism.
-- Abrir formulario de suscripción.
-- El formulario oficial que se configura en Brevo.
+NUEVO ARTÍCULO
+Título: Genealogía de Tierra Santa y sus pueblos.
+Subtítulo: Parte I: Prehistoria.
+Archivo: genealogia-tierra-santa-parte-i-prehistoria.html
 
-Se han eliminado la introducción duplicada, el mensaje «Puedes completar el formulario aquí…» y la línea del lema, privacidad y correo dentro del bloque. El acceso a privacidad sigue disponible en el pie de la web.
-El iframe mide 480 px en escritorio y 600 px en pantallas estrechas, con desplazamiento interno del navegador si el formulario o sus mensajes necesitan más espacio. El enlace directo permite abrir el formulario completo en otra pestaña.
+Se conserva íntegramente el texto definitivo La_Prehistoria_de_Tierra_Santa_MAX_4800_FINAL.md. Se utiliza la misma portada que en la introducción, con su crédito original. Se incorporan las cuatro imágenes adjuntas y la última cronología localizada, image-gen-4(5).png, del 13 de septiembre a las 13:05 UTC. Las imágenes están incrustadas en el HTML y no necesitan carpetas adicionales.
+La nueva entrega aparece en Inicio y Publicaciones. La introducción enlaza a esta continuación y el nuevo artículo recomienda la introducción y el artículo sobre los agricultores de Anatolia.
 
-FONDO EXTERIOR DE BREVO: PENDIENTE EN SU EDITOR
-El celeste que rodea el recuadro blanco de la captura está dentro de la página externa de Brevo. El marco de nuestra web tiene fondo transparente; el navegador no permite que los estilos de Anachronism modifiquen el interior de una página de otro dominio.
-Para quitar el celeste manteniendo el formulario alojado y editable en Brevo, cambia el fondo exterior del formulario desde su editor. Si admite transparencia, úsala; si solo admite color, usa #f4ecdf, el color crema que esta entrega aplica uniformemente al bloque. Mantén el recuadro interior blanco y guarda/publica los cambios en el mismo formulario. No hace falta sustituir su URL si conservas el mismo formulario.
-No se ha cambiado ese ajuste de tu cuenta Brevo desde aquí. La consulta automatizada del formulario sigue devolviendo HTTP 403, por lo que no se ha podido verificar su aspecto actual ni una suscripción real.
+SUSCRIPCIÓN
+En los seis artículos, el bloque de suscripción aparece inmediatamente después de Sobre el autor y Compartir, antes de los artículos relacionados.
+Se mantiene el diseño simplificado: La revista, en tu correo; Suscríbete a Anachronism; botón para abrir el formulario; formulario oficial de Brevo. No se reincorporan los textos duplicados eliminados anteriormente.
+
+BIBLIOGRAFÍA Y PRECISIONES
+El nuevo artículo incorpora 14 referencias bibliográficas y documentales sobre las primeras dispersiones humanas, los natufienses, la domesticación, Motza, Ain Ghazal, arqueogenética, Peqi’in, Nahal Mishmar y Jericó.
+Se ha preservado el párrafo del manuscrito sobre el proyecto reciente de Motza (72 individuos y ADN de 50). No se ha localizado una publicación primaria verificable para esas cifras en esta revisión; no se ha inventado una referencia ni se han atribuido a Lazaridis 2016, que estudia una muestra anterior.
+Los pies de imagen precisan que el horizonte natufiense corresponde aproximadamente a hace 15.000–11.500 años, no a 15.000–11.500 a. C. como indica el mapa adjunto, y que Eynan-Mallaha era una comunidad de cazadores-recolectores anterior a las aldeas agrícolas. Los mapas y la cronología se han conservado tal como fueron proporcionados/localizados, sin alterar sus píxeles. Las flechas genéticas son esquemáticas y los porcentajes son modelos de referencia, no ascendencias individuales.
 
 SUBIR A GITHUB
-Descomprime esta entrega y sube sus 11 HTML juntos al mismo directorio de Journal donde está index.html, sustituyendo los archivos del mismo nombre en un único commit. No borres antes nada. La carpeta assets no es necesaria. Conserva main y /(root) en GitHub Pages. Espera a que termine la nueva publicación antes de comprobar el resultado.
+1. Descomprime este ZIP.
+2. Sube juntos los 12 HTML a la raíz de Journal, donde ya está index.html.
+3. Conserva los nombres: los 11 existentes se sustituyen y se añade genealogia-tierra-santa-parte-i-prehistoria.html.
+4. Guarda los cambios en un único commit y espera a que termine GitHub Pages.
+No borres previamente los archivos. No subas el ZIP sin descomprimir. No hace falta la carpeta assets.
+GitHub Pages debe seguir en main y /(root).
 
-Se conservan textos, imágenes, nombres de archivos y URL de Brevo. Esta entrega no modifica por sí sola el repositorio ni los ajustes de Brevo.
-Revisión: 20260913-minimal-2.
+BREVO
+El formulario continúa vinculado a la misma URL. El fondo celeste interior pertenece al formulario externo de Brevo y se cambia desde su editor: transparente si está disponible, o #f4ecdf para igualarlo al bloque crema de esta web. Esta entrega no cambia los ajustes de la cuenta Brevo ni envía una suscripción de prueba.
+
+VERIFICACIÓN
+Se han comprobado el texto original, la identidad de las cinco imágenes, la portada, los enlaces internos, los seis botones de Publicaciones y el orden de los bloques finales. El archivo no publica por sí mismo los cambios en GitHub.
