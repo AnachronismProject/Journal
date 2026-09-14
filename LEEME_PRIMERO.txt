@@ -1,4 +1,4 @@
-ANACHRONISM — WEB COMPLETA CON PREHISTORIA — 13 SEPTIEMBRE 2026
+ANACHRONISM — WEB COMPLETA CON SERIES — 14 SEPTIEMBRE 2026
 
 NUEVO ARTÍCULO
 Título: Genealogía de Tierra Santa y sus Pueblos. Parte I
@@ -6,21 +6,21 @@ Subtítulo: La Prehistoria.
 Archivo: genealogia-tierra-santa-parte-i-prehistoria.html
 
 Se conserva íntegramente el texto definitivo La_Prehistoria_de_Tierra_Santa_MAX_4800_FINAL.md. Se utiliza la misma portada que en la introducción, con su crédito original. Se incorporan las cuatro imágenes adjuntas (con el mapa del horizonte natufiense sustituido por 7c95462a-cd62-4e9e-959f-f94b8aeb5c11.png) y la última cronología localizada, image-gen-4(5).png, del 13 de septiembre a las 13:05 UTC. Las imágenes están incrustadas en el HTML y no necesitan carpetas adicionales.
-La nueva entrega aparece en Inicio y Publicaciones. La introducción enlaza a esta continuación y el nuevo artículo recomienda la introducción y el artículo sobre los agricultores de Anatolia.
+La portada lleva directamente a la última entrega. Publicaciones muestra una sola tarjeta de la serie junto a los cuatro artículos independientes; las entregas se eligen en serie-genealogia-tierra-santa.html. Hay acceso a Series desde el menú y un bloque de Series antes del archivo general. Las dos entregas incluyen navegación entre ellas y hacia el índice de la serie.
 
 SUSCRIPCIÓN
 En los seis artículos, el bloque de suscripción aparece inmediatamente después de Sobre el autor y Compartir, antes de los artículos relacionados.
 Se mantiene el diseño simplificado: La revista, en tu correo; Suscríbete a Anachronism; botón para abrir el formulario; formulario oficial de Brevo. No se reincorporan los textos duplicados eliminados anteriormente.
 
 BIBLIOGRAFÍA Y PRECISIONES
-El nuevo artículo incorpora 14 referencias bibliográficas y documentales sobre las primeras dispersiones humanas, los natufienses, la domesticación, Motza, Ain Ghazal, arqueogenética, Peqi’in, Nahal Mishmar y Jericó.
+El nuevo artículo incorpora 16 referencias bibliográficas y documentales sobre las primeras dispersiones humanas, los natufienses, la domesticación, Motza, Ain Ghazal, arqueogenética, Peqi’in, Nahal Mishmar y Jericó.
 Se ha preservado el párrafo del manuscrito sobre el proyecto reciente de Motza (72 individuos y ADN de 50). No se ha localizado una publicación primaria verificable para esas cifras en esta revisión; no se ha inventado una referencia ni se han atribuido a Lazaridis 2016, que estudia una muestra anterior.
 Los pies de imagen aportan claves de lectura sin repetir sus títulos. Cada imagen y su nota comparten un único marco, con bordes alineados y sin el contorno superpuesto de la versión anterior. El mapa natufiense contiene ya la cronología corregida enviada por el autor. La bibliografía utiliza la misma lista y estilo de los demás artículos, sin títulos subrayados. La página de privacidad tiene márgenes simétricos, párrafos justificados y títulos centrados.
 
 SUBIR A GITHUB
 1. Descomprime este ZIP.
-2. Sube juntos los 12 HTML a la raíz de Journal, donde ya está index.html.
-3. Conserva los nombres: los 11 existentes se sustituyen y se añade genealogia-tierra-santa-parte-i-prehistoria.html.
+2. Sube juntos los 13 HTML a la raíz de Journal, donde ya está index.html.
+3. Conserva los nombres: los 12 HTML existentes se sustituyen y se añade serie-genealogia-tierra-santa.html.
 4. Guarda los cambios en un único commit y espera a que termine GitHub Pages.
 No borres previamente los archivos. No subas el ZIP sin descomprimir. No hace falta la carpeta assets.
 GitHub Pages debe seguir en main y /(root).
@@ -29,4 +29,11 @@ BREVO
 El formulario continúa vinculado a la misma URL. El fondo celeste interior pertenece al formulario externo de Brevo y se cambia desde su editor: transparente si está disponible, o #f4ecdf para igualarlo al bloque crema de esta web. Esta entrega no cambia los ajustes de la cuenta Brevo ni envía una suscripción de prueba.
 
 VERIFICACIÓN
-Se han comprobado el texto original, la identidad de las cinco imágenes, la portada, los enlaces internos, los seis botones de Publicaciones y el orden de los bloques finales. El archivo no publica por sí mismo los cambios en GitHub.
+Se han comprobado el texto original, la identidad de las cinco imágenes, la portada, los enlaces internos, las cinco tarjetas del archivo general, los accesos a la serie y los filtros temáticos y el orden de los bloques finales. El archivo no publica por sí mismo los cambios en GitHub.
+
+ORGANIZACIÓN DE SERIES
+La tarjeta de la serie reúne las temáticas de sus entregas. El archivo se ordena por fecha de actualización (data-updated); no hay orden aleatorio. Para añadir una entrega, crea su HTML, enlázala en el índice de la serie, actualiza el número de entregas y la última entrega en las dos tarjetas de Publicaciones, su fecha data-updated y sus temáticas, y cambia el destacado de Inicio. Mantén una sola tarjeta de la serie en el archivo general.
+
+GIBRALTAR Y ORDEN BIBLIOGRÁFICO
+Se han añadido dos párrafos tras Bab el-Mandeb: Gibraltar como posibilidad discutida y la ventaja terrestre del Sinaí–Levante. Fuentes añadidas: Tafelmaier et al. (2017), doi:10.21630/maa.2017.68.16; Hölzchen et al. (2022), doi:10.1016/j.palaeo.2022.110845.
+Las cuatro bibliografías existentes están ordenadas alfabéticamente por primer autor o institución, y por fecha para un mismo autor. Se conserva su presentación, sin añadir subrayados.
