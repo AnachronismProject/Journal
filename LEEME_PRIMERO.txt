@@ -13,7 +13,7 @@ En los seis artículos, el bloque de suscripción aparece inmediatamente despué
 Se mantiene el diseño simplificado: La revista, en tu correo; Suscríbete a Anachronism; botón para abrir el formulario; formulario oficial de Brevo. No se reincorporan los textos duplicados eliminados anteriormente.
 
 BIBLIOGRAFÍA Y PRECISIONES
-El nuevo artículo incorpora 16 referencias bibliográficas y documentales sobre las primeras dispersiones humanas, los natufienses, la domesticación, Motza, Ain Ghazal, arqueogenética, Peqi’in, Nahal Mishmar y Jericó.
+El nuevo artículo incorpora 17 referencias bibliográficas y documentales sobre las primeras dispersiones humanas, los natufienses, la domesticación, Motza, Ain Ghazal, arqueogenética, Peqi’in, Nahal Mishmar y Jericó.
 Se ha preservado el párrafo del manuscrito sobre el proyecto reciente de Motza (72 individuos y ADN de 50). No se ha localizado una publicación primaria verificable para esas cifras en esta revisión; no se ha inventado una referencia ni se han atribuido a Lazaridis 2016, que estudia una muestra anterior.
 Los pies de imagen aportan claves de lectura sin repetir sus títulos. Cada imagen y su nota comparten un único marco, con bordes alineados y sin el contorno superpuesto de la versión anterior. El mapa natufiense contiene ya la cronología corregida enviada por el autor. La bibliografía utiliza la misma lista y estilo de los demás artículos, sin títulos subrayados. La página de privacidad tiene márgenes simétricos, párrafos justificados y títulos centrados.
 
@@ -37,3 +37,7 @@ La tarjeta de la serie reúne las temáticas de sus entregas. El archivo se orde
 GIBRALTAR Y ORDEN BIBLIOGRÁFICO
 Se han añadido dos párrafos tras Bab el-Mandeb: Gibraltar como posibilidad discutida y la ventaja terrestre del Sinaí–Levante. Fuentes añadidas: Tafelmaier et al. (2017), doi:10.21630/maa.2017.68.16; Hölzchen et al. (2022), doi:10.1016/j.palaeo.2022.110845.
 Las cuatro bibliografías existentes están ordenadas alfabéticamente por primer autor o institución, y por fecha para un mismo autor. Se conserva su presentación, sin añadir subrayados.
+
+FUENTES DE LAS FIGURAS Y CRONOLOGÍA
+Los cinco pies de las figuras interiores de La Prehistoria conservan su texto y marco e incorporan una línea con la fuente de la información. Las citas científicas enlazan a sus referencias bibliográficas. Se mantiene el crédito UNIR de la portada. El modelo de Lazaridis et al. (2016) se identifica como regional, sin atribuir sus porcentajes al proyecto reciente de Motza.
+La cronología conserva sus etapas, fechas e ilustraciones; se han retirado los lemas decorativos laterales e inferiores, la brújula y la escala geográfica.
